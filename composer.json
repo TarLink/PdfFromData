@@ -1,5 +1,5 @@
 {
-    "name": "TarLink/generate-label",
+    "name": "tarlink/generate-label",
     "description": "Generate label from data",
     "type": "library",
     "require": {

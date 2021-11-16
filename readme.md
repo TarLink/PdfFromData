@@ -10,7 +10,7 @@ Installation
 ------------
 
 ```
-composer require TarLink/generate-label
+composer require tarlink/generate-label
 ```
 
 It requires PHP version 7.1.
