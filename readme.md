@@ -1,4 +1,4 @@
-Label Generator
+Pdf Label Generator
 =============
 
 This module uses data stored in a sqlite database and displays in the browser window a pdf label that contains the data,
