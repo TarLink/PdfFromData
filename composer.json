@@ -9,7 +9,7 @@
         "egulias/email-validator": "^3.1.2",
         "fpdf/fpdf": "^1.83.2"
     },
-    "license": "proprietary",
+    "license": "GPL-3.0",
     "authors": [
         {
           "name": "Alexandru Bucur",
