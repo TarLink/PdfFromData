@@ -2,8 +2,6 @@
 
 namespace Glfromd;
 
-require_once('./vendor/autoload.php');
-
 use Glfromd\Storage\SQLiteStorage;
 use Glfromd\Validator\Validator;
 use Glfromd\UID\UID;
